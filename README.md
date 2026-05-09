@@ -32,7 +32,7 @@
 * **Database:** MongoDB
 * **Authentication:** OAuth 2.0 (Google Login) & Manual Registration
 * **Features:** Live Preview, Image Upload, Role-based Access Control (RBAC)
-
+* **Infrastructure:** Docker Containerization
 ---
 
 ## Engineering Challenges
@@ -76,4 +76,5 @@ Interface ที่เน้นความเรียบง่าย แสด
 
 ##  Developer
 * **Name:** Paramest Suetrong
+* **Position:** Full-Stack
 * **Project for:** ห้องอาหาร วนารมย์ วนาศรม มหาวิทยาลัยแม่ฟ้าหลวง
